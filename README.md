@@ -21,7 +21,7 @@ This project analyzes hospital discharge data from New York State, focusing on e
 - `Average Cost per Discharge = DIVIDE(SUM(hospital_discharges[total_costs]), [Total Discharges])`
 
 ## Final Dashboard
-[Link to Interactive Dashboard][(https://app.powerbi.com/groups/me/reports/b77aa5d9-ac44-4360-99e1-a8d9b8c3eebf/46d83e22d57023121d38?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNDAyNzBiYWItYzc0Yi00YzVmLTkwMzEtYTA0NzQ3OGE0YmIyIiwidCI6Ijg1Y2UwYWJmLWRmMDYtNGFmZi1hMmE4LWQzMWEyYWQ0MGI2NiIsImMiOjN9&embedImagePlaceholder=true))  
+[Link to Interactive Dashboard](https://app.powerbi.com/groups/me/reports/b77aa5d9-ac44-4360-99e1-a8d9b8c3eebf/46d83e22d57023121d38?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNDAyNzBiYWItYzc0Yi00YzVmLTkwMzEtYTA0NzQ3OGE0YmIyIiwidCI6Ijg1Y2UwYWJmLWRmMDYtNGFmZi1hMmE4LWQzMWEyYWQ0MGI2NiIsImMiOjN9&embedImagePlaceholder=true))  
 
 
 ## Repository Contents
