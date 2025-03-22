@@ -26,10 +26,9 @@ This project analyzes hospital discharge data from New York State, focusing on e
 
 ## Repository Contents
 - `README.md`: Project overview and documentation.
-- `Healthcare_Analysis.pbix`: Power BI file for the final dashboard.
-- `Dataset.csv`: Sample dataset used for analysis.
+- `Healthcare Data Analysis Dashboard.pbix`: Power BI file for the final dashboard.
+- `Datasets/hospital_inpatient_discharges_totalhipreplacement.csv`: Sample dataset used for analysis.
 - `DAX_Functions.txt`: List of DAX measures used.
-- `Visualizations/`: Screenshots of key visualizations.
 - `Final_Report.pdf`: PDF version of the final report.
 
 ## LinkedIn Article
