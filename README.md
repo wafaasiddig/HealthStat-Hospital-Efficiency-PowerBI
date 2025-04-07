@@ -32,4 +32,4 @@ This project analyzes hospital discharge data from New York State, focusing on e
 - `Final_Report.pdf`: PDF version of the final report.
 
 ## LinkedIn Article
-[Read the LinkedIn Article](#)
+[Read the LinkedIn Article](https://www.linkedin.com/pulse/healthcare-data-analysis-elective-hip-replacement-surgeries-siddig-9ipjf/?trackingId=t3S7tCBj0q6kR6mH3c2Z1A%3D%3D)
